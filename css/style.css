@@ -1,0 +1,89 @@
+.clearfix {
+  clear: both;
+}
+ul li {
+  list-style-position: none;
+  list-style-type: none;
+  display: inline-block;
+  padding: 20px;
+}
+.list {
+  float: right;
+  list-style-type: none;
+}
+.hero {
+  background-image: url("../images/ezgif-2-b583d0ce77.png");
+  text-align: cover;
+  height: 50vh;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 0 auto;
+  padding: 150px;
+  color: #496bf2;
+}
+.logo {
+  float: left;
+}
+.hero-content {
+  float: right;
+  padding: 200px;
+  text-align: center;
+}
+.button {
+  background-color: #496bf2;
+  padding: 10px;
+  color: white;
+}
+.book {
+  background-color: #2dd6c1;
+  padding: 10px;
+  color: white;
+}
+.home {
+  color: #496bf2;
+}
+.par {
+  color: black;
+  background-position: center;
+  padding: 2px;
+}
+.docy {
+  color: #496bf2;
+}
+.section-content {
+  padding:0 150;
+  box-shadow:0 0 5px 5px;
+  margin:20px;
+}
+.section {
+  float: right;
+  display: inline-flex;
+  margin: 60px;
+}
+.yna {
+  float: left;
+  padding-right:50px;
+}
+.services {
+  float: left;
+}
+.iry {
+  color: #2dd6c1;
+}
+.ohio {
+  color: #496bf2;
+}
+.most {
+  background-color: #496bf2;
+  padding: 10px;
+  border: 5px;
+  cursor: pointer;
+}
+.hot {
+  text-align: center;
+}
+.about-content{
+  float: right;
+  padding-left:50px;
+}
