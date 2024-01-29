@@ -10,7 +10,7 @@
 .clearfix {
   clear: both;
 }
-ul li {
+nav ul li {
   list-style-position: none;
   list-style-type: none;
   display: inline-block;
@@ -23,7 +23,7 @@ ul li {
 .hero {
   background-image: url("../images/ezgif-2-b583d0ce77.png");
   text-align: cover;
-  height: 50vh;
+  height: 70vh;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -119,25 +119,33 @@ ul li {
   padding: 10px 300px 50px 10px;
   margin: 30px 10px;
 }
-.stethe-content {
+.stethe-content{
   float: left;
 }
 .natsi {
   padding: 10px 300px 150px 10px;
   margin: 30px 20px;
 }
-.fix {
-  float:left;
-  display:block;
+footer>div{
+  width: 25%;
+  float: left;
 }
-.test {
-  float:left;
-  display:block;
+.footer-logo{
+  width: 50%;
 }
-.conta{
-  float:right;
+.testimonial-circle{
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  border: none;
+  display: inline-block;
 }
-.depa{
- float:left; 
+.green{
+  background-color: #2dd6c1;
 }
-.
+.blue{
+  background-color: #496bf2;
+}
+.soma{
+  list-style-type:none;
+}
