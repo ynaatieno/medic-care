@@ -66,8 +66,8 @@ nav ul li {
   margin: 20px;
 }
 .section {
-  float: right;
-  display: inline-flex;
+  float:center;
+  display:inline-flex;
   margin: 60px;
 }
 .yna {
