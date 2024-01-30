@@ -74,6 +74,9 @@ nav ul li {
   box-shadow: 0 0 5px 5px;
   margin: 20px;
 }
+.any{
+  font-size: 2rem;
+}
 .section {
   float:center;
   display:inline-flex;
