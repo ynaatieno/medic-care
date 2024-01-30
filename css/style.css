@@ -130,9 +130,12 @@ nav ul li {
 .about-content {
   float: right;
   width: 50%;
+  margin-right: -30px;
 }
 .female {
-  color: #496bf2;
+  color: #496bf2; 
+  margin-top: 20px;
+  margin-bottom: 30px;
 }
 .stethe {
   height: 80vh;
@@ -186,7 +189,10 @@ footer>div{
   color:#496bf2;
 }
 .we{
-  color:#2dd6c1;
+ color:#2dd6c1;
+}
+.circles{
+  margin-bottom: 20px;
 }
 .from{
   color:#496bf2;
