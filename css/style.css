@@ -1,7 +1,12 @@
+
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Josefin+Sans:ital,wght@0,400;0,500;1,400&display=swap">
 * {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
-  box-sizing: border-box;
+  font-family: 'IBM Plex Mono', monospace;
+font-family: 'Josefin Sans', sans-serif;
+ display: border-box;
+  
 }
 .container {
   width: 80%;
@@ -142,6 +147,21 @@ footer>div{
 }
 .green{
   background-color: #2dd6c1;
+}
+.tech{
+  color:#496bf2;
+}
+.put{
+  color:#2dd6c1;
+}
+.us{
+  color:#496bf2;
+}
+.we{
+  color:#2dd6c1;
+}
+.from{
+  color:#496bf2;
 }
 .blue{
   background-color: #496bf2;
