@@ -77,6 +77,12 @@ nav ul li {
 .any{
   font-size: 2rem;
 }
+.are{
+  font-size:2rem;
+}
+.ready{
+  font-size: 2rem;
+}
 .section {
   float:center;
   display:inline-flex;
