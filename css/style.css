@@ -1,8 +1,5 @@
 
   @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Josefin+Sans&display=swap');
-
-
-
 * {
   margin: 0 auto;
   padding:0;
@@ -193,7 +190,7 @@ footer>div{
  color:#2dd6c1;
 }
 .circles{
-  margin-bottom: 20px;
+  margin-bottom: 70px;
 }
 .from{
   color:#496bf2;
