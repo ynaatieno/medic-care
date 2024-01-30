@@ -1,11 +1,14 @@
 
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Josefin+Sans:ital,wght@0,400;0,500;1,400&display=swap">
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Josefin+Sans&display=swap');
+
+
+
 * {
   margin: 0 auto;
-  padding: 0;
-  font-family: 'IBM Plex Mono', monospace;
-font-family: 'Josefin Sans', sans-serif;
+  padding:0;
  display: border-box;
+ font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
   
 }
 .container {
