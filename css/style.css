@@ -64,6 +64,7 @@ nav ul li {
   color: black;
   background-position: center;
   padding: 2px;
+  font-size:2rem;
 }
 .docy {
   color: #496bf2;
@@ -89,6 +90,7 @@ nav ul li {
 }
 .services {
   float: left;
+  font-size:1.2rem;
 }
 .iry {
   color: #2dd6c1;
@@ -104,6 +106,10 @@ nav ul li {
 }
 .hot {
   text-align: center;
+  width:25%;
+  margin:0 auto;
+  margin-bottom:40px;
+  font-size:1.2rem;
 }
 .about-content {
   float: right;
