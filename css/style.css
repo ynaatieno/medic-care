@@ -41,8 +41,10 @@ nav ul li {
 }
 .hero-content {
   float: right;
-  padding: 200px;
+  padding:100px;
   text-align:right;
+  padding-right: 10px;
+  text-align: center;
 }
 .button {
   background-color: #496bf2;
@@ -77,6 +79,7 @@ nav ul li {
   padding: 0 150;
   box-shadow: 0 0 5px 5px;
   margin: 20px;
+  color: grey;
 }
 .any{
   font-size: 2rem;
@@ -103,7 +106,6 @@ nav ul li {
 }
 .services {
   float: left;
-  font-size:1.2rem;
 }
 .iry {
   color: #2dd6c1;
@@ -149,7 +151,7 @@ nav ul li {
 }
 .but {
   background-color: #496bf2;
-  padding: 5px 100px 5px 100px;
+  padding: 5px 100px 1.5px 100px;
   margin: 20px 5px;
   font-size: 2rem;
 }
