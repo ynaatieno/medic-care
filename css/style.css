@@ -1,12 +1,10 @@
-
-  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Josefin+Sans&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Josefin+Sans&display=swap");
 * {
   margin: 0 auto;
-  padding:0;
- display: border-box;
- font-family: 'IBM Plex Sans', sans-serif;
-font-family: 'Josefin Sans', sans-serif;
-  
+  padding: 0;
+  display: border-box;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
 }
 .container {
   width: 80%;
@@ -41,14 +39,14 @@ nav ul li {
 }
 .hero-content {
   float: right;
-  padding:100px;
-  text-align:right;
+  padding: 100px;
+  text-align: right;
   padding-right: 10px;
   text-align: center;
 }
 .button {
   background-color: #496bf2;
-  padding:10px;
+  padding: 10px;
   color: white;
 }
 .book {
@@ -60,39 +58,42 @@ nav ul li {
   color: #496bf2;
   font-size: 2rem;
 }
-.ome{
+.ome {
   font-size: 2rem;
 }
 .par {
   color: black;
   background-position: center;
   padding: 2px;
-  font-size:2rem;
+  font-size: 2rem;
 }
-.care{
+.care {
   font-size: 4rem;
 }
 .docy {
   color: #496bf2;
+  text-align:center;
+}
+.image{
+  padding-left: 40%;
 }
 .section-content {
   padding: 0 150;
-  box-shadow: 0 0 5px 5px;
+  box-shadow: 0 0 5px 2px lightgray;
   margin: 20px;
-  color: grey;
 }
-.any{
+.any {
   font-size: 2rem;
 }
-.are{
-  font-size:2rem;
+.are {
+  font-size: 2rem;
 }
-.ready{
+.ready {
   font-size: 2rem;
 }
 .section {
-  float:center;
-  display:inline-flex;
+  float: center;
+  display: inline-flex;
   margin: 60px;
 }
 .yna {
@@ -106,6 +107,7 @@ nav ul li {
 }
 .services {
   float: left;
+  font-size: larger;
 }
 .iry {
   color: #2dd6c1;
@@ -123,18 +125,18 @@ nav ul li {
 }
 .hot {
   text-align: center;
-  width:25%;
-  margin:0 auto;
-  margin-bottom:40px;
-  font-size:1.2rem;
+  width: 25%;
+  margin: 0 auto;
+  margin-bottom: 40px;
+  font-size: 1.2rem;
 }
 .about-content {
   float: right;
   width: 50%;
-  margin-right: -30px;
+  margin-right: -10px;
 }
 .female {
-  color: #496bf2; 
+  color: #496bf2;
   margin-top: 20px;
   margin-bottom: 30px;
 }
@@ -151,11 +153,11 @@ nav ul li {
 }
 .but {
   background-color: #496bf2;
-  padding: 5px 100px 1.5px 100px;
+  padding: px 100px 1.5px 100px;
   margin: 20px 5px;
   font-size: 2rem;
 }
-.stethe-content{
+.stethe-content {
   float: left;
 }
 .natsi {
@@ -163,44 +165,44 @@ nav ul li {
   margin: 30px 20px;
   font-size: 2rem;
 }
-footer>div{
+footer > div {
   width: 25%;
   float: left;
 }
-.footer-logo{
+.footer-logo {
   width: 50%;
 }
-.testimonial-circle{
+.testimonial-circle {
   height: 20px;
   width: 20px;
   border-radius: 50%;
   border: none;
   display: inline-block;
 }
-.green{
+.green {
   background-color: #2dd6c1;
 }
-.tech{
-  color:#496bf2;
+.tech {
+  color: #496bf2;
 }
-.put{
-  color:#2dd6c1;
+.put {
+  color: #2dd6c1;
 }
-.us{
-  color:#496bf2;
+.us {
+  color: #496bf2;
 }
-.we{
- color:#2dd6c1;
+.we {
+  color: #2dd6c1;
 }
-.circles{
+.circles {
   margin-bottom: 70px;
 }
-.from{
-  color:#496bf2;
+.from {
+  color: #496bf2;
 }
-.blue{
+.blue {
   background-color: #496bf2;
 }
-.soma{
-  list-style-type:none;
+.soma {
+  list-style-type: none;
 }
