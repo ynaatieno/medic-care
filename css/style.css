@@ -46,13 +46,15 @@ nav ul li {
 }
 .button {
   background-color: #496bf2;
-  padding: 10px;
+  padding:2em 5em;
   color: white;
+  font-size:larger;
 }
 .book {
   background-color: #2dd6c1;
-  padding: 10px;
+  padding:2em 5em;
   color: white;
+  font-size:larger
 }
 .home {
   color: #496bf2;
@@ -153,7 +155,7 @@ nav ul li {
 }
 .but {
   background-color: #496bf2;
-  padding: px 100px 1.5px 100px;
+  padding:px  100px 1.5px 100px;
   margin: 20px 5px;
   font-size: 2rem;
 }
