@@ -25,7 +25,7 @@ medic-care is a website for an innovative medical company where clients can visi
   6. if you would like to get intouch with me for more infomation and feedback you can reach me through **ynaooro4@gmail.com**
   7.  MIT License
 
-Copyright (c) [2024] [***yna atieno***]
+Copyright (c) [2024] ***yna atieno***
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
